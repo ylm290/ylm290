@@ -1,6 +1,5 @@
 # [Youkyung Lim](https://www.linkedin.com/in/youkyung-lim-02691211b/)
-Bioinformatician | Data Scientist | Technical Support | Project Management \
-I am a bioinformatician with 4 years of experience in transcriptomic and single-cell data analysis. Having started my career in Technical Support at a Next-Generation Sequencing (NGS) service company, I developed a passion for problem-solving and collaborating across disciplines in a rapidly evolving field. I am excited to contribute to advancing scientific discoveries through data analysis.
+I am a data scientist with a background in biology and bioinformatics. My experience lies in transcriptomic and single-cell data analysis and machine learning. Having started my career in technical support at a Next-Generation Sequencing (NGS) service company, I developed a passion for problem-solving and collaborating across disciplines in a rapidly evolving field. I am excited to contribute to advancing scientific discoveries through data analysis.
 
 ## Table of contents
 - [CV](https://github.com/ylm290/YoukyungLim?tab=readme-ov-file#cv)
@@ -11,17 +10,21 @@ I am a bioinformatician with 4 years of experience in transcriptomic and single-
 ## CV
 ### Work Experience
 - Bioinformatician at Erasmus MC, Immunology (July 2023 – Present)
-  - Participated in 6 research projects for various types of data analyses (i.e., bulk RNA-seq, single-cell RNA-seq, single-cell TCR-seq, Ribo-seq, SNP array, clinical and serological data)
-  - Validated a bulk RNA-seq analysis workflow and created a user manual to guide research collaborators [Link to the repository](https://github.com/ylm290/bulkRNAseq)
-  - Organized a 2-day educational course on the omics data analysis for 20 PhDs and Postdocs, and taught the topic of single-cell RNA-seq including an R practical session via Posit Cloud [Link to the repository](https://github.com/ylm290/scRNAseq)
+  - Analyzed various types of data analyses (i.e., bulk RNA-seq, single-cell RNA-seq, single-cell TCR-seq, Ribo-seq, SNP array, clinical and serological data) for research projects in the field of immunology
+  - Validated a [bulk RNA-seq analysis workflow](https://github.com/ylm290/bulkRNAseq) and created a user manual to guide research collaborators
+  - Organized a 2-day educational course on the omics data analysis for 20 PhDs and Postdocs, and [taught the topic of single-cell RNA-seq](https://github.com/ylm290/scRNAseq) including an R practical session via Posit Cloud 
 - Bioinformatician at Macrogen Europe B.V. (September 2021 – June 2023)
+  - Quality control and analysis of bulk RNA-seq data using in-house bioinformatics pipeline
 - Senior NGS Technical Support at Macrogen Europe B.V. (June 2017 – August 2021)
 - NGS Project Manager at Macrogen Inc. (October 2012 – May 2017)
 
 ### Education
 - MSc Bioinformatics and Systems Biology at Vrije Universiteit Amsterdam (September 2020 – July 2022)
   - Courses & Group projects
-    - [Bioinformatics for Translational Medicine](https://github.com/ylm290/ClassifyBreastCancerSubtypes), [Machine Learning](https://github.com/ylm290/PredictDNAMethylationStates), Data Mining Techniques
+    - [Bioinformatics for Translational Medicine](https://github.com/ylm290/ClassifyBreastCancerSubtypes)
+    - [Machine Learning](https://github.com/ylm290/PredictDNAMethylationStates)
+    - Data Mining Techniques
+    - Algorithms in Sequence Analysis
   - [Major research project](https://github.com/ylm290/scHPL_liver): Improving cell type annotation of healthy liver single-cell transcriptomes using a hierarchical progressive learning method
   - [Minor research project](https://github.com/ylm290/proteome_qc): Assessing plasma protein expression levels in systemic autoinflammatory diseases (SAIDs) and establishing outlier based quality control and normalization workflow for SomaScan assay
 - BSc Animal Biotechnology & BA English Language and Literature at Konkuk University (March 2006 – August 2011)
