@@ -10,7 +10,7 @@ I am a data scientist with a background in biology and bioinformatics. My experi
 ## CV
 ### Work Experience
 - Bioinformatician at Erasmus MC, Immunology (July 2023 – Present)
-  - Analyzed various types of data analyses (i.e., bulk RNA-seq, single-cell RNA-seq, single-cell TCR-seq, Ribo-seq, SNP array, clinical and serological data) for research projects in the field of immunology
+  - Analyzed various types of datasets (i.e., bulk RNA-seq, single-cell RNA-seq, single-cell TCR-seq, Ribo-seq, SNP array, clinical and serological data) for research projects in the field of immunology
   - Validated a [bulk RNA-seq analysis workflow](https://github.com/ylm290/bulkRNAseq) and created a user manual to guide research collaborators
   - Organized a 2-day educational course on the omics data analysis for 20 PhDs and Postdocs, and [taught the topic of single-cell RNA-seq](https://github.com/ylm290/scRNAseq) including an R practical session via Posit Cloud 
 - Bioinformatician at Macrogen Europe B.V. (September 2021 – June 2023)
