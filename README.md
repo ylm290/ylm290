@@ -23,8 +23,10 @@ I am a data scientist with a background in biology and bioinformatics. My experi
   - Courses & Group projects
     - [Bioinformatics for Translational Medicine](https://github.com/ylm290/ClassifyBreastCancerSubtypes)
     - [Machine Learning](https://github.com/ylm290/PredictDNAMethylationStates)
+    - Machine Learning for the Quantified Self
     - Data Mining Techniques
     - Algorithms in Sequence Analysis
+    - Structural Bioinformatics
   - [Major research project](https://github.com/ylm290/scHPL_liver): Improving cell type annotation of healthy liver single-cell transcriptomes using a hierarchical progressive learning method
   - [Minor research project](https://github.com/ylm290/proteome_qc): Assessing plasma protein expression levels in systemic autoinflammatory diseases (SAIDs) and establishing outlier based quality control and normalization workflow for SomaScan assay
 - BSc Animal Biotechnology & BA English Language and Literature at Konkuk University (March 2006 – August 2011)
