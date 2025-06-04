@@ -34,8 +34,9 @@ I am a data scientist with a background in biology and bioinformatics. My experi
 [Back to top](https://github.com/ylm290/YoukyungLim/blob/main/README.md#youkyung-lim)
 
 ## Publication
-- Zgjim Osmani, Willem Pieter Brouwer, Dwin G.B. Grashof, Youkyung Lim, Michael Doukas, Harry L.A. Janssen, Harmen J.G. van de Werken, Andre Boonstra,
-Metabolic dysfunction-associated steatohepatitis reduces interferon and macrophage liver gene signatures in patients with chronic hepatitis B, 
-Journal of Hepatology, 2024, https://doi.org/10.1016/j.jhep.2024.10.032.
+- CTG-initiated cryptic peptide translation up and downstream of a canonical ATG start codon is enhanced by TLR stimulation and induces tumor regression in mice,
+Cancer Immunol Res (2025), https://doi.org/10.1158/2326-6066.CIR-24-0467.
+- Metabolic dysfunction-associated steatohepatitis reduces interferon and macrophage liver gene signatures in patients with chronic hepatitis B, 
+Journal of Hepatology (2024), https://doi.org/10.1016/j.jhep.2024.10.032.
 
 [Back to top](https://github.com/ylm290/YoukyungLim/blob/main/README.md#youkyung-lim)
